@@ -3,12 +3,12 @@
     "short_name": "TheMobileBlogger",
     "icons": [
         {
-            "src": "https://1.bp.blogspot.com/-GtoN1p3dzE8/YEppJWtNRsI/AAAAAAAAAIc/6O9U-s2EsIAHAC5M6yeho5t8tK0b-IxIwCNcBGAsYHQ/s200/android-chrome-192x192.png",
+            "src": "https://raw.githubusercontent.com/themobileblogger/favicon/main/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://1.bp.blogspot.com/-yYYdN01iyI0/YEppJfLZbJI/AAAAAAAAAIY/dD5lyQTr_sY2Gp4YwUNYTwNwmljqysBeACNcBGAsYHQ/s200/android-chrome-512x512.png",
+            "src": "https://raw.githubusercontent.com/themobileblogger/favicon/main/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
